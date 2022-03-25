@@ -1,9 +1,9 @@
-### Hi dear, i'm Camilla Carvalho  👋
+### Hi, i'm Camilla Carvalho 🌹
 
 
 
-- 🔭 I’m currently working on back-end developer
-- 🌱 
+-  IT enthusiast & Backend developer ✨
+
 
 <div align="right">
   <a href="https://github.com/Camilla-Carvalho">
