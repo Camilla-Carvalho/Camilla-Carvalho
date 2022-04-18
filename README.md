@@ -30,7 +30,7 @@
   
 </div> 
     
- <br><img align="right" alt="pic" left="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/raw/main/001.gif">
+
     
   <div style="display: inline_block; text-align: right"><br><br>
       
