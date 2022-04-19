@@ -33,7 +33,7 @@
   <img align="left" alt=csharp height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
   <img align="left" alt=Node height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="podman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg">
-  <img align="left" alt="open-suse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg">
+  <img align="left" alt="Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="left" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" >   
   <img align="left" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="left" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
