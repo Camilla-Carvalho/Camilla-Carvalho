@@ -29,7 +29,6 @@
   <img align="right" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
   
 </div> 
-    
 
     
   <div style="display: inline_block; text-align: right"><br><br>
@@ -37,7 +36,7 @@
   <a href="https://www.instagram.com/crowmilla/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/camilla.carvalho.9041/" target="_blank"><img align="right" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><br><img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/raw/main/001.gif">
   </a>
     
      
