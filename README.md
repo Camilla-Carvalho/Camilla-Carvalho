@@ -33,11 +33,16 @@
     
   <div style="display: inline_block; text-align: right"><br><br>
       
-<a href="https://www.instagram.com/crowmilla/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.facebook.com/camilla.carvalho.9041/" target="_blank"><img align="right" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-<a href="" target="_blank"><img align="right" alt="isa-android" heigth="200" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "https://www.linux.org/" target="_blank"><img align="right" alt="linux" heigth="200" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br><br><img align="center" alt="Goland" height="200" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/raw/main/001.gif"></a>
-   
-   
+  <a href="https://www.instagram.com/crowmilla/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/camilla.carvalho.9041/" target="_blank"><img align="right" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+  <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="right" alt="Goland" height="200" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/raw/main/001.gif"></a>
+    
      
   ![Snake animation](https://github.com/Camilla-Carvalho/Camilla-Carvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
