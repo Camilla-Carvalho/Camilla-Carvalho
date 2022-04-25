@@ -1,7 +1,6 @@
 ### Hi, i'm Camilla Carvalho 🌹
 
 
-
 -  IT enthusiast & Backend developer ✨
 
 
@@ -20,10 +19,7 @@
   <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" alt="Duke&Tomcat" height="170" style="border-radius:50px;" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif"></a>
-    
-    
-     
+  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" alt="Duke&Tomcat" height="170" style="border-radius:50px;" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif"></a>    
     
     
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -37,7 +33,5 @@
   <img align="left" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
 </div>  
-  
- 
-</div>
+
   
