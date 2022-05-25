@@ -19,9 +19,9 @@
   <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" alt="Duke&Tomcat" height="165" style="border-radius:50px;" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif"></a>    
+  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" alt="Duke&Tomcat" height="165" style="border-radius:50px;" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif"><img align="center" alt="Duke&ContainerDocker" height="165" style="border-radius:50px;" src="https://ask.openrouteservice.org/uploads/default/original/1X/947e6999f1eb9f132261d58d97560957b9f75d43.png"></a><br>    
     
-    
+ 
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="left" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
