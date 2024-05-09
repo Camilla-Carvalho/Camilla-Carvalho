@@ -19,7 +19,7 @@
   <a href = "mailto:camillacarvalhodejesus@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/camilla-carvalho-2162b9196/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" height="165" style="border-radius:50px;" src="https://alexei-led.github.io/img/duke_docker.png"><img align="center" height="165" style="border-radius:50px;" src="https://ask.openrouteservice.org/uploads/default/original/1X/947e6999f1eb9f132261d58d97560957b9f75d43.png"></a><br>    
+  <a href="https://www.linux.org/" target="_blank"><img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br><img align="center" height="165" style="border-radius:50px;" src="https://alexei-led.github.io/img/duke_docker.png"></a><br>    
     
  
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
